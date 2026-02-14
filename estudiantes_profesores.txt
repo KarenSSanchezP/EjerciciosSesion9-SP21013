@@ -1,0 +1,2 @@
+estudiante,Karen,Sanchez,FIA,N/A,sp21013
+profesor,Martin,Espinoza,FIA,martin.espinoza,N/A
